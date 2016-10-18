@@ -1,0 +1,13 @@
+
+.information {
+    margin-top: 30px;
+    font-size: 16px;
+}
+.caption {
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+}
+
+.textShadow {
+    text-shadow: 2px 2px 4px #000000;
+}
